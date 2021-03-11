@@ -1,0 +1,16 @@
+<div class="pageContainer" id="container">
+
+    <div class="toolsPanel">
+        <form method="POST" action="/upload" enctype="multipart/form-data">
+            <input type="file" name="newImg" id="inputImg" accept="image/*">
+            <input type="submit" name="uploadImg" value="Upload"/>
+        </form>
+        &nbsp;
+    </div>
+    
+    <div class="imgPanel">
+        <% imgList.forEach( function(element, index) { %>
+            <a href="<%-baseURL%>public/img/<%=element%>"><img style="width:10%;" src="<%-baseURL%>public/img/thumbails/<%=element%>"></a>
+        <% }); %>
+    </div>
+</div>

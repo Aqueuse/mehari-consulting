@@ -1,0 +1,18 @@
+<div class="pageContainer" id="container">
+    <form method="post" onsubmit="copyFirstImgLocation()" id="formEditArticle">
+        <span class="topArea">
+           <input type="text" class="titreArea" id="titreAreaId" name="title" value="<%= result.title %>">
+           <input type="date" class="dateArea" name="date" value="<%= result.date%>">
+        </span>
+        <textarea class="articleArea" id="articleAreaId" name="content"><%- result.content %></textarea>
+        <br>
+        <br>
+        <div align="right" class="bottomArea">
+            <input type="text" style="display:none;" name="typeIsArticle" value="<%= result.typeIsArticle %>">
+            <input class="IDfield" style="display: none;" type="text" id="articleID" name="id" value="<%= result.id %>">
+            <input type="text" style="display:none;" name="categories" value="<%- result.categorie %>">
+            <input type="text" style="display: none" name="thumbail" id="thumbailChooser" value="<%= result.thumbail %>">
+            <input class="publishBtn" type="submit" value="Valider">
+        </div>
+    </form>
+</div>

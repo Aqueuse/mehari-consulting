@@ -1,0 +1,23 @@
+<div class="pageContainer" id="container">
+    <form action="/create" method="post" onsubmit="logSubmit()" id="formCreateArticle">
+        <span class="topArea" align="right">
+            <input type="text" class="titreArea" id="titreAreaId" name="title" placeholder="Titre de l'article"></input>
+            <input type="date" class="dateArea" name="date" id="publicationDate">
+        </span>
+        <textarea class="articleArea" id="articleAreaId" name="content"></textarea>
+        <br>
+        <br>
+        <div class="bottomArea" align="right">
+            <input type="text" style="display: none" name="thumbail" id="thumbailChooser">
+            <input type="text" name="categorie" placeholder="cat&eacute;gorie">
+            &nbsp;<label> actualité ?</label>
+            <input type="checkbox" name="typeIsArticle" value="true" checked></input>
+            <input style="display: none;" type="text" id="articleID" name="id"></input>
+            <input type="submit" value="Publier"></input>
+        </div>
+    </form>
+</div>
+
+<script>
+    document.getElementById("publicationDate").defaultValue = new Date().toISOString().substr(0, 10);
+</script>

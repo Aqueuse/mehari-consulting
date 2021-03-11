@@ -1,0 +1,26 @@
+<div class="pageContainer" id="container">
+    <div class="topArea" align="right">
+        <a href="<%-baseURL%>upload" class="button">Upload</a>
+        <a href="<%-baseURL%>public/archive.tgz" class="button">Sauvegarder</a>
+        <a href="<%-baseURL%>create" class="button">Créer un article</a>
+    </div>
+    <table class="adminTable">
+      <% listArticles.forEach(element=> { %>
+        <tr class="adminItems">
+          <td  class="adminItems">
+             <a href="<%-baseURL%>type=article&id=<%=element.id%>"><%= element.title %></a>
+          </td>
+          <td  class="adminItems">
+             <form action="/edit" method="get">
+                 <input type="submit" name="<%=element.id%>" value="edit"></input>
+             </form>
+          </td>
+          <td class="adminItems">
+             <form action="/delete" method="post">
+                 <input type="submit" name="<%=element.id%>" value="delete"></input>
+             </form>
+          </td>
+        </tr>
+    <% }); %>
+  </table>
+</div>

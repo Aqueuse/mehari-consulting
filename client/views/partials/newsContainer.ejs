@@ -1,0 +1,29 @@
+<h1>Les actualités du Mehari</h1>
+<hr>
+<br>
+
+<% listArticles.forEach(element => { %>
+   <div onclick="window.open('<%-baseURL%>type=article&id=<%-element.id%>')" id="<%- element.id %>" class="newsRubrique" name="thumb">
+     <img class='thumbImg' src="<%baseURL%>public/img/<%-element.thumbail%>">
+     <b><%- element.title.substring(0,40) %>...</b>
+     <p><%- element.content.substr(0,100).replace(/(<([^>]+)>)/gi, "") %>...</p>
+   </div>
+<% }); %>
+
+<br><br>
+
+<% if (indexArticlesPrecedents >= 0) { %>
+<button class="buttonLinkLeft">
+    <a href="http://mehari-consulting.com/type=news&index=<%-indexArticlesPrecedents%>"><b>&nbsp;&lt;&nbsp;</b></a>
+</button>
+<% } %>
+
+<% if (indexArticlesSuivants >= 0 && indexArticlesSuivants < countArticles) { %>
+<button class="buttonLinkRight">
+  <a href="http://mehari-consulting.com/type=news&index=<%-indexArticlesSuivants%>"><b>&nbsp;&gt;&nbsp;</b></a>
+</button>
+<% } %>
+
+<br><br>
+
+<script type="text/javascript">removeHTMLBalises();</script>

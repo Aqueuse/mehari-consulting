@@ -1,0 +1,118 @@
+.bouton-bar {
+  background-color: #1e90ff;
+}
+
+.lateralPane {
+  border-color: DeepSkyBlue;
+  background-color : whitesmoke;
+}
+
+.paneLink {
+  border-color: #00bfff;
+  background-color: #fed6a8;
+}
+
+.paneLink:hover {
+  border-color: #00bfff;
+  background-color: #ffba6b;
+}
+
+.paneA {
+  color:#41406D;
+}
+
+.divSocialNetwork > img {
+  border-color: #41406D;
+}
+
+/* admin page */
+
+.button {
+  background-color: gainsboro;
+  border-color: gray;
+}
+
+.adminTable {
+  border-color: black;
+  background-color: ghostwhite;
+}
+
+.adminItems {
+  border-color: black;
+}
+
+/* create-edit page */
+
+.toolsPanel {
+  background-color:silver;   
+}
+
+/* article text styling */
+
+.dateArticle {
+ color:#41406D;
+}
+
+b {
+/* color:#41406D; */
+}
+
+p, li {
+ color:#41406D;
+}
+
+h1 {
+ color:#41406D;
+}
+
+h2 {
+ color:#41406D;
+}
+
+h3 {
+ color:#41406D;
+}
+
+hr {
+  background-color:#F3A536; 
+}
+
+/* images styling */
+
+figcaption {
+  color:#41406D;
+}
+
+
+/* ------- rubriques dedicated classes -----------  */
+ /* --------- preview (thumb) style ------------ */
+
+.newsRubrique {
+  color: #F3A536;
+  background-color: #41406D;
+}
+
+.newsRubrique > p {
+  color:white;
+}
+
+/* mobile style only */
+@media only screen and (max-width: 768px) {
+  .newsRubrique {
+    color: #F3A536;
+    background-color: #41406D;
+  }
+}
+
+.ritecultureRubrique {
+  background-color: #66C4B2;
+  color: #6F2645;
+}
+
+.ritecultureRubrique > p {
+  color: #6F2645; 
+}
+
+.buttonLink > a {
+  color: #6F2645;
+}

@@ -1,0 +1,513 @@
+[{ 
+  "title" : "Bienvenue",
+  "content" : "<div>
+<table>
+    <td style="width: 15%;"></td>
+    <td valign="center" style="background-color: #F7F9FD; width: 25%;">
+        <h2 style="padding-left:4em; text-align: center; color: #DE661D; font-family: Arial, Helvetica, sans-serif;">Mehari Consulting</h2>
+        <p style="text-align:center; color:#41406D; font-family: Arial, Helvetica, sans-serif; font-size:0.8em; padding:0.5em;">Conseil et formations pour cheminer vers la paix sociale</p>
+    </td>
+    <td style="width: 50%;"><img style="width: 90%; height: auto;" src="./public/img/mehari-cover.jpg"></td>
+</table>
+</div>
+
+<h1 style="text-align:center; color:#41406D; font-family: Arial, Helvetica, sans-serif;">Une jeunesse ouverte et créative pour le grand Maliba et l'Afrique</h1>
+<hr style="width:10%; background-color:#F3A536; height:2px;border-width:0;">
+<p style="text-align:left; padding-left: 8em; padding-right: 8em; font-family: Arial, Helvetica, sans-serif;  color:#41406D; font-size:0.8em;">
+Le Mehari Consulting est une société qui propose des services en conseils et formation
+ dans plusieurs domaines pour faciliter la paix sociale entre les populations elles
+  mêmes ainsi qu'entre celles-ci et les décideurs nationaux et internationaux. Le Mehari
+   de son nom un chameau ou dromadaire qui fréquente plusieurs localités afin de retrouver
+    la paix et les bons pâturages.
+</p>
+<br>
+<br>
+<table style="border-spacing: 0px; padding: 0px;">
+    <tr>
+        <td style="border-spacing: 0X; padding:0px; width: 25%;"><img style="width:100%; height:auto;" src="./public/img/teeshirt.jpg"></td>
+        <td style="border-spacing: 0X; padding:0px; width: 25%;"><img style="width:100%; height:auto;" src="./public/img/ordi.jpg"></td>
+        <td style="border-spacing: 0X; padding:0px; width: 25%;"><img style="width:100%; height:auto;" src="./public/img/conf.jpg"></td>
+        <td style="border-spacing: 0X; padding:0px; width: 25%;"><img style="width:100%; height:auto;" src="./public/img/patron.jpg"></td>
+    </tr>
+</table>
+<br>
+<br>
+<table style="background-color: #41406D; border-spacing: 0px;" >
+    <tr style="text-align: center; color: white; font-family: Arial, Helvetica, sans-serif;">
+        <td style="width: 33%;"></td>
+        <td style="width: 33%;">
+            <br>
+            <h2 style="color:#F3A536; padding-left:0em;">Nos missions</h2>
+            <br>
+        </td>
+        <td style="width: 33%;"></td>
+    </tr>
+    <tr>
+        <td valign="top" style="width:33%; padding-left: 6em;">
+            <h2 style="padding-left:0em; text-align: left; color: #F3A536; font-family: Arial, Helvetica, sans-serif;">Conseil</h2>
+            <p style="text-align:left; color:white; font-family: Arial, Helvetica, sans-serif; font-size:0.8em; padding:0.5em;">
+                Un monde sans conseil n'a pas d'avenir. Dans un monde qui se veut être en voie de développement, les conseils du Mehari feront la différence pour guider nos sociétés.
+            </p>
+            <br>
+        </td>
+        <td valign="top" style="width:33%;">
+            <h2 style="padding-left:0em; text-align: left; color: #F3A536; font-family: Arial, Helvetica, sans-serif;">Formation</h2>
+            <p style="text-align:left; color:white; font-family: Arial, Helvetica, sans-serif; font-size:0.8em; padding: 0.5em;">
+                Nous faisons de la formation professionnelle notre objectif primordial car le Mali en particulier et le Sahel en général ont besoin de former plus de jeunes de tous les niveaux afin qu'ils puissent exceller dans leur métier et en vivre.
+            </p>
+            <br>
+        </td>
+        <td  valign="top" style="width:33%; padding-right: 6em;">
+            <h2 style="padding-left:0em; text-align: left; color: #F3A536; font-family: Arial, Helvetica, sans-serif;">Paix</h2>
+            <p style="text-align:left; color:white; font-family: Arial, Helvetica, sans-serif; font-size:0.8em; padding: 0.5em;">
+                Notre société a comme challenge, une contribution au développement du Mali à travers l'ensemble de ses services qu'elle veut entreprendre sur tout le territoire national et dans la diaspora.
+            </p>
+            <br>
+        </td>
+    </tr>
+</table>
+
+<br>
+
+<div>
+    <h1 style="text-align:center; color:#41406D; font-family: Arial, Helvetica, sans-serif;">Un site de référence qui prône la paix sociale</h1>
+    <hr style="width:10%; background-color:#F3A536; height:2px;border-width:0;">
+    <p style="text-align:left; padding-left: 8em; padding-right: 8em; font-family: Arial, Helvetica, sans-serif;  color:#41406D; font-size:0.8em;">
+        Une nouvelle société d'information et de consultation générale qui vise à promouvoir la qualité de ses services en conseils et formations dans plusieurs domaines. Cela consiste à faciliter la paix sociale entre les populations elles-mêmes ainsi qu'entre celles-ci et les décideurs nationaux ou internationaux.
+    </p>
+    <p style="padding-left: 8em; padding-right: 8em; font-family: Arial, Helvetica, sans-serif;  color:#41406D; font-size:0.8em;">
+        De façon historique, Mehari qui signifie ( un chameau ou dromadaire qui fréquente plusieurs localités afin de retrouver la paix et les bons pâturages) a été lancé  depuis février 2019 à Bamako afin de consolider la paix, l'unite nationale, la réconciliation, la connaissance réciproque des cultures, l'éducation, l'entreprenariat et ainsi que l'innovation et le développement au Mali.
+    </p>
+    <p style="padding-left: 8em; padding-right: 8em; font-family: Arial, Helvetica, sans-serif;  color:#41406D; font-size:0.8em;">
+        Aujourd'hui, cette société "Mehari consulting"  se met à la disposition des maliens de l'interieur comme de la diaspora afin de les aider et les accompagner dans leurs entreprises. C'est une boîte de référence qui s'ouvre à tous les entrepreneurs afin de promouvoir à des bons résultats ou à la réussite de leurs projets.
+    </p>
+    <p style="padding-left: 8em; padding-right: 8em; font-family: Arial, Helvetica, sans-serif;  color:#41406D; font-size:0.8em;">
+        Les principales missions du Mehari consulting s'articulent autour des conseils et pour la paix au Mali. Dans un premier temps, un monde sans conseil n'a pas d'avenir. C'est pourquoi Mehari consulting en a fait le conseil comme un instrument de travail et de réussite pour contribuer au développement humain dans la société. En ce qui concerne la paix, la boîte a comme véritable défi de participer dans un monde où il fait bon vivre. Le Mehari consulting est prêt à  travailler sur tout le territoire national et à l'étranger avec une équipe très active et dynamique avec son promoteur Mohamed Ag Ahmedou. Le slogan au sein  du Mehari consulting est de vendre son talent sur le plan national et international.
+    </p>
+</div>",
+  "categorie" : "default",
+  "typeIsArticle" : false,
+  "id" : "bienvenue-py8w8wee",
+  "date" : "undefined"
+}{ 
+  "title" : "Contact",
+  "content" : "<div>
+<img style="width:15%; height:auto; display:block; margin-left: auto; margin-right: auto;" src="./public/img/logoOld.png" alt="logoOld">
+</div>
+
+<div>
+  <h2 style="padding-left:8em; text-align:center; font-family: Arial, Helvetica, sans-serif;  color:#41406D;">Mehari Consulting</h2>
+
+<p style="text-align:center; font-family: Arial, Helvetica, sans-serif;  color:#41406D;">🏠  Kalaban Coura extension, rue 201, porte 178, Bamako (Mali)</p>
+
+<p style="text-align:center; font-family: Arial, Helvetica, sans-serif;  color:#41406D;"><b>Mohamed Ag Ahmedou</b> <br> ✆ +223 90 61 69 11 /  ✉ <a href="mailto:badacha2010_ag@yahoo.fr">badacha2010_ag@yahoo.fr</a></p>
+</div>",
+  "categorie" : "default",
+  "typeIsArticle" : false,
+  "id" : "contact-08unl12x",
+  "date" : "undefined"
+}{ 
+  "title" : "Qui sommes nous ?",
+  "content" : "<div>
+    <img src="./public/img/portraitMohamedAgAhmedou.jpeg" align="left" style="padding-left:2%; padding-right:2%; height:30%; width:auto;" alt="portrait de Mohamed Ag Ahmedou">
+    <h2 style="color:#41406D; font-family: Arial, Helvetica, sans-serif;">Mohamed Ag Ahmedou</h2>
+    <p style="text-align:left; padding-left: 8em; padding-right: 4em; font-family: Arial, Helvetica, sans-serif;  color:#41406D; font-size:0.8em;">Mohamed Ag Ahmedou est un journaliste malien qui a su s'imposer dans le journalisme et dans la communication. Il fut ex pigiste au magazine français Paris Match Afrique, ancien de Noorinfo et de l'agence mauritanienne de presse,  du point Afrique.fr, de l'agence de presse anadolu de la Turquie, de mondafrique.com, d'international News Ltd de la Grande Bretagne, de l'university world wide, de media diversity Instute.org à  travers Dune-voices.info et de l'Afrique Adulte du Maroc. Il revient avec ce nouveau site qui va permettre de mieux outiller les personnes qui sont engagées pour la réussite.</p>
+</div>",
+  "categorie" : "default",
+  "typeIsArticle" : false,
+  "id" : "quisommesnous-jlceg7g8",
+  "date" : "undefined"
+}{ 
+  "title" : "SAHEL : Timbuktu Institute appelle les partenaires du Mali à plus de coordination de leurs stratégies",
+  "content" : "<p>Par Mohamed Ag Ahmedou</p>
+
+<p>A l’occasion de l’ouverture de son bureau au Mali, le Directeur de Timbuktu Institute-African Center for Peace Studies, Dr. Bakary Sambe, connu comme l’un des plus grands experts des réseaux transnationaux au et du terrorisme au Sahel, répond à nos questions sur les objectifs et axes de travail de son Institut, de l’Observatoire des radicalismes et conflits religieux en Afrique (ORCRA). Ses travaux actuels s’intéressent aux stratégies endogènes, dynamiques transfrontalières et l’expérimentation des approches agiles en zone de crise. Expert auprès des Nations Unies, UE, Union Africaine etc., il a notamment conçu et mené le plaidoyer pour l’implantation de la cellule régionale de prévention et de lutte contre la radicalisation du G5 Sahel (CELLRAD), accompagné le processus d’élaboration des stratégies nationales au Niger, au Burkina Faso, Centrafrique et réalisé le premier manuel de bonnes pratiques de résilience. Il s’exprime, aussi, largement, sans gants, sur la situation politico-sécuritaire au Mali en pleine transition de même que le rôle des partenaires internationaux comme la France ainsi que sur les pistes pour la stabilisation du Mali et l’avenir des coopérations sécuritaires.</p>
+
+<h3>1. Pouvez-vous nous parler du Timbuktu Institute ?</h3>
+
+<p>Timbuktu Institute se veut un cadre de production de connaissances endogènes, d’échanges et de diffusion autour d’une contribution africaine à la promotion et à la consolidation des valeurs universelles de paix. Pour la réalisation d’une telle ambition portée par une nouvelle génération africaine assumant son passé riche de ses métissages et brassages, consciente de son rôle présent en faveur de la paix et de la stabilité ainsi que de sa responsabilité historique pour un meilleur avenir, Timbuktu Institute est un cadre ouvert, inclusif et pluridisciplinaire de recherche et d’actions. Pour ce faire, l’Institut est conscient des difficultés liées aux contraintes politiques, socioreligieuses, culturelles, et à un contexte international et régional où foisonnent les zones de tensions et les crises multiformes. La préoccupation du Timbuktu institute et de ses chercheurs est que sur toutes les questions importantes pour l’Afrique et le monde puissent s’exprimer des voies africaines audibles et scientifiquement crédibles. Les partenaires internationaux aussi ont besoin d’une ethnologie inversée qui pourraient les aider avec un regard extérieurs à leurs paradigmes dominants.</p>
+
+<figure>
+<img src="./public/img/whatsapp1.jpeg">
+<img src="./public/img/e36a512fe5b90101a88ae780e05256f8_XL.jpg">
+</figure>
+
+<h3>2. Quels sont ses grands axes pour le Mali ?</h3>
+
+<p>Beaucoup d’acteurs nationaux comme internationaux consultés avant l’ouverture de notre bureau de Bamako nous ont exprimé leur regret de l’absence de l’Institut au Mali qu’ils considéraient comme un non-sens. C’est conscients de la nécessité d’une approche holistique et de réponses multidimensionnelles aux nombreux défis liés au développement, la sécurité, la promotion des Droits humains, de la bonne gouvernance, de la réduction des inégalités conflictuelles, des extrémismes religieux et politiques que Timbuktu Institute a été mis en place par des chercheurs et acteurs divers de la société civile régionale. Nous étions toujours convaincus que la seule approche sécuritaire des conflits n’a jamais suffi à les éradiquer. L’institut privilégie un traitement pluridisciplinaire, ouvert et valorisant les ressources endogènes pour inspirer des méthodes innovantes et agiles de médiation et de résolution de crises en Afrique. Les solutions militaires sont nécessaires pour gérer les urgences sécuritaires mais ne sont ni efficaces ni durables contre le terrorisme. L’expérience américaine en Afghanistan l’a suffisamment démontré. Une kalachnikov n’a jamais pu tuer une idéologie.</p>
+ 
+<h3>3. Quelle est sa particularité par rapport aux autres observatoires sahéliens?</h3>
+
+<p>Notre Institut allie recherches et actions, plaidoyer et sensibilisation dans le but de promouvoir la paix co-construite, de prévenir et lutter contre toutes formes d’instrumentalisation des idéologies ou religions à des fins de violence et de conflits pouvant déstabiliser ou compromettre la paix et la stabilité des différents pays. De ce point de vue, l’Institut a voulu se distinguer d’autres centres et instituts dont les recherches sont uniquement orientées vers l’académisme classique, ne visant pas forcément à contribuer au changement. Les publications de Timbuktu Institute cherchent à accompagner et éclairer l’élaboration des politiques publiques et proposer des pistes exploitables par les acteurs, décideurs et partenaires internationaux.</p>
+
+<h3>4. N'est-ce pas une ambition démesurée dans des pays comme les nôtres ?</h3>
+
+<p>Je ne le crois pas et c’est justement cette attitude d’esprit qu’il va falloir dépasser. Nous voulons rendre plus évidente la connexion et l’interdépendance entre le monde de la recherche et de la décision. L’Observatoire des radicalismes et conflits religieux en Afrique (ORCRA) animé par les chercheurs de l’Institut à partir de plus dix pays de la région est pour nous une matérialisation d’une telle vision d’anticipation et de prospective sur ces conflits qui couvent en décelant les signaux faibles que le regard extérieur ou occidental a du mal à capter par les statistiques et autres études décalées des réalités du terrain. Dans nos pays, il est insensé de dépenser les maigres ressources que nous avons dans la recherche sans que celle-ci puisse impacter le vécu de nos concitoyens. Nous sommes dans une logique d’opérationnalisation de la recherche et de ses résultats sur le modèle des grands Think tanks qui structurent la politique étrangères des pays du Nord en nous imposant la même rigueur scientifiques et les mêmes standards en matière d’innovation.</p>
+ 
+<h3>5. Quelle analyse faites-vous de la situation institutionnelle, politique et sécuritaire au Mali ?</h3>
+
+<p>Le Mali est à la croisée des chemins. Il vit un paradoxe et semble revivre la même situation qu’en 2012 avec une crise institutionnelle à Bamako et une situation sécuritaire qui a du mal se stabiliser aussi bien au Nord que dans le Centre. L’autre paradoxe est que voilà la jeunesse d’un pays qui s’était soulevée contre la mal gouvernance éprise de liberté et de démocratie et qui se retrouve dans une impasse politique où les institutions tant rêvées ne sont pas encore totalement en place et la paix si désirée n’est pas non plus au rendez-vous. Comme nous l’écrivions dès le lendemain du coup d’Etat d’août 2020, la jeunesse malienne qui, par dépit ou espoir, s’était rangée avec une classe politique désemparée derrière un imam Dicko prêchant la bonne gouvernance, doit certainement s’interroger sur ce fait inédit après le départ d’IBK qui représentait, à ses yeux, la « soumission du pays à la France ». Le rêve de démocratie, de rupture et de réformes a finalement débouché sur l’arrivée d’une d’autorités annonçant de bonnes intentions à défaut de mesures ou de solutions immédiates. Au même moment, les religieux reprennent du poil de la bête pour s’ériger en caution ou bouclier démocratique dans un pays où la classe politique semble avoir failli depuis longtemps. Le chérif de Nioro-du-Sahel, tout comme l’imam Mahmoud Dicko qui avait, trop vite, annoncé son retrait dans sa mosquée pour finalement rappeler que celle-ci « est bien au Mali », pèsent encore sur la situation. Et cette tendance va se confirmer en direction des prochaines élections.</p>
+ 
+<h3>6. Quelle est votre vision par rapport au sentiment de rejet des forces armées étrangères au Mali?  par exemple  le mouvement qui est contre la politique française au Mali sachant  que c'est le premier pays engagé dans la lutte contre le terrorisme au Mali depuis le 11 janvier 2013.</h3>
+
+<p>Il faut que les chercheurs que nous sommes acceptions de regarder la réalité en face et de l’analyser froidement pour se différencier des discours politiques ou populistes. Notre rôle est d’éclairer. Vous savez, au-delà du vent du nationalisme et de l’anti-impérialisme qui aura soufflé au Mali et au Sahel le temps d’un coup d’État qui aurait concrétisé le rêve de la fin de « l’emprise française », la réalité malienne, elle, reste inchangée et devient plus préoccupante. Malheureusement, cette réalité, aux lendemain du putsch,  semblait noyée dans la jubilation suscitée par la chute d’un « bourreau », ébranlé, délégitimé, tandis qu’était scrutée l’arrivée immédiate mais peut-être toujours improbable de Russes ou d’autres nouveaux acteurs ou sauveurs, certainement pas en bon samaritain. Il ne faut pas perdre de vue que l’expérience africaine de la Russie ne s’est, d’ailleurs, jamais forgée dans le sable sahélien, à part l’Éthiopie et la Somalie dans les années 1970 en plus d’un manque d’agilité diplomatique au-delà de la dotation en matériel militaire. Il faut que notre génération sorte enfin de l’attitude de ressenti face à notre expérience avec la France. Contrairement à ce qu’on pourrait croire, le Sahel n’a jamais été un sujet facile pour la diplomatie française : elle doit constamment y gérer les urgences et l’Histoire en même temps. Même en l’absence de la solidarité européenne escomptée autour des initiatives françaises pour le Sahel, la réalité est que France reste un acteur incontournable au Mali et dans la région. Un proverbe de chez moi ironise que ceux qui ne peuvent pas se séparer sont contraints de cohabiter. Le discours de Ouagadougou prononcé par Emmanuel Macron avait suscité quelques réels espoirs en donnant un nouvel élan. On peut espérer que le Sommet de Montpellier soit réparateur des malentendus qui se sont glissés dans les relations et perceptions depuis. Les Américains ne sont pas si absents du Sahel que l’on pourrait le croire. La nomination de Peter Pham comme envoyé Spécial au Sahel est un signal fort bien que les USA aient jusqu’ici privilégié des stratégies d’influences dans le peu d’espace sécurisé par les autres, leur rôle dans les programmes de prévention de l’extrémisme est indéniable.</p>
+
+<h3>7. Quelles sont les recommandations qu'il faut pour pacifier le Mali ?</h3>
+
+<p>Notre Institut travaille à partir du paradigme selon lequel, en matière de stabilisation, il faut toujours co-construire les stratégies dans le cadre d’une approche agile et non les imposer. Il faut naturellement que le processus de la transition aille jusqu’au bout sans aboutir à une autre crise institutionnelle qui serait dommageable pour l’avenir de la paix au Mali et dans la sous-région. Il n’y a plus de recette miracle à imaginer ; il suffit d’opérationnaliser les dispositifs existants comme l’Accord d’Alger, les conclusions issues des concertations nationales inclusives tout en mesurant les risques auxquels peuvent conduire certains errements que tous paieraient cher même avec l’ardent désir de négocier. Mais je reste optimiste et confiant en la capacité des Maliens à toujours créer les conditions de possibilité d’une paix durable. En pleine crise politique entre le M5RFP et le pouvoir d’IBK j’écrivais que « la grandeur historique d’un pays et d’un peuple ne saurait mentir ». Pour moi, si l’on sait valoriser les ressources culturelles endogènes, elles seront une force motrice pour de grands sursauts et il en faut aujourd’hui ! N’oublions jamais que ce peuple malien dont les ancêtres furent à l’origine de l’Empire du Wagadou ou Gana, qui ont réussi à unir les peuples de notre sous-région a été capable du meilleur de l’Afrique. Il ne doit donc se risquer d’être à l’origine du pire : la survie du Mali est celle de notre région. Mais, c’est parce que la paix au Mali est l’affaire de tout le monde- comme en témoigne l’intérêt croissant de pays insoupçonnés pour la stabilisation du Mali dans le cadre de l’engagement au sein de la MINUSMA – que la communauté internationale doit davantage se mobiliser tout en sortant des conflits de perceptions du conflit mais aussi en harmonisant ses stratégies démultipliées qui, pour être efficientes, mériteraient plus de coordination.</p>",
+  "categorie" : "default",
+  "typeIsArticle" : true,
+  "id" : "saheltimbuktu-gefw63bp",
+  "date" : "2021-01-24"
+}{ 
+  "title" : "GOUNDAM : la coordination kel Ansar organise une grande rencontre pour la paix et le developpement durable",
+  "content" : "<p>Par Mohamed Ag Ahmedou</p>
+
+<p><b>Goundam brillera de mille feux sous le signe de la paix et de la concorde les 12, 13 et 14 Février prochains grâce à la Coordination Kel-Ansar et Alliés sous le haut patronage de grandes personnalités du pays parmi lesquelles son Excellence Oumou Sall Seck et l’Honorable Oumarou AG Mohamed Ibrahim Haidara tous deux effectuant spécialement le déplacement pour l’occasion. A ces deux fils du terroir se joindront Monsieur Cheick Boukadry TRAORE qui œuvre pour un renouveau malien, son Excellence Mohamed Ali AG IBRAHIM qui n’est plus à présenter aux Tombouctiens et d’autres personnalités toutes aussi importantes comme d’anciens Ministres et associations locales et régionales dont la liste nous sera communiquée ultérieurement, ont promis les organisateurs.</b></p>
+
+<p>La tenue prochaine de cette grande rencontre inter et intracommunautaire qui aura lieu à Goundam dans moins de 10 jours mobilise dans l’effervescence et la bonne humeur les goundamiens réputés pour leur accueil légendaire.</p>
+
+<p>Cette grande rencontre initiée par l’association Coordination Kel Ansar et alliés aura pour but principal de créer un cadre de retrouvailles des communautés de la région de Tombouctou afin d’échanger sur leurs problèmes sans tabou ainsi que les modalités de vivre ensemble dans la paix et la sécurité pour un développement plus durable. La région entière soufre de marasme et d ’exploitation sans grande retombées majeures pour ses populations nomades et sédentaires.</p>
+
+<p>La coordination Kel Ansar et Alliés est une jeune association crée par des ressortissants de la région de Tombouctou afin d’apporter leur modeste pierre à la construction d’un vivre ensemble inclusif pour toutes les communautés. Bien que l’initiative vienne de personnalités majoritairement Kel Ansar elle est cependant ouverte à toute personne, toutes communautés voisines confondues désireuse d’apporter sa contribution et s’inscrivant dans ses objectifs statutaires.</p>
+
+<figure>
+<img src="./public/img/IMG-20210205-WA0086.jpg">
+<img src="./public/img/IMG-20210205-WA0087.jpg">
+</figure>
+
+<p>Selon ses initiateurs elle serait née d’une longue réflexion et d’échanges entre quelques cadres et communautés sur les enjeux en termes d’adéquation entre structures existantes et les défis quotidiens qui nécessitent une émergence de nouvelles idées et de nouvelles pratiques propices à un meilleur développement dans un Mali en paix, avec des communautés voisines vivant librement et cohabitant en bonne intelligence les unes avec les autres avec des mécanismes endogènes de prévention des crises.
+Son champ d’action englobe la paix sociale et le développement humain à travers des actions positives de rapprochement entre acteurs et de mobilisation des ressources avec un désir de promotion de la tolérance, la cohabitation et la culture de la paix au sein de ses membres ainsi que le renforcement des liens fraternels et de coopération avec les autres communautés avec lesquelles elle partage la vision, le territoire géographique de prédilection et les champs d'action.</p>
+
+<p>Elle bénéficie d’un soutien et un accompagnement de cadres de haut niveaux spécialisés dans leurs domaines parmi lesquels des politologues, experts humanitaires et développement, spécialistes en paix et sécurité, spécialistes en droit, éducation, et santé tous issus des communautés de Tombouctou.
+Conformément à ses statuts, l’association s’est fixé comme objectifs spécifiques de :</p>
+
+<li>Contribuer au renforcement d’une cohabitation pacifique inter et intracommunautaire au Mali en général et au sein des communautés Kel Ansar et Alliés en particulier</li>
+<li>Encourager une participation active et responsable des acteurs majeurs et des communautés au développement dans leur environnement.</li>
+<li>Encourager et accompagner les populations dans les actions de paix de médiation et de développement durable.</li>
+
+<p>Elle reste ouverte à faire évoluer ses champs d’action en lien avec le chemin à parcourir pour participer à sortir les populations des clivages et ainsi encourager le développement par la création d’espaces de dialogue innovants facteurs de stabilité. Elle invite ainsi toutes les communautés de Tombouctou à venir célébrer la paix avec elle et ses illustres hôtes à Goundam.</p>",
+  "categorie" : "default",
+  "typeIsArticle" : true,
+  "id" : "goundamla-ct6onqdh",
+  "date" : "2021-01-24"
+}{ 
+  "title" : "MALI : Amadou Diadié Sankaré, Président du CNPM",
+  "content" : "<h2>"Le transport est l'un des facteurs les plus importants pour le développement "</h2>
+
+<p>Par Alou Badra Doumbia</p>
+
+<p>Le Président du Conseil National du Patronat du Mali (CNPM), Amadou dit Diadié Sankaré s'est rendu le mercredi dernier à l’Association Malienne des Expert Évaluateurs Agréés en Industrie et Transport (AMEITA). Cette rencontre  entre le patron des patrons et l'association lui a été une occasion de s'imprégner sur les missions de cette organisation.</p>
+
+<figure>
+<img src='./public/img/WhatsApp55.jpeg'><img src='./public/img/WhatsApp56.jpeg'>
+<figcaption>Amadou dit Diadié Sankaré, Président du Conseil National du Patronat du Mali (CNPM)</figcaption>
+</figure>
+
+<p>Il faut d'abord rappeler que depuis son élection à la tête du Patronat, le Président Amadou Diadié Sankara ne ménage aucun effort pour aller à la rencontre des regroupements économiques du pays.  Cette visite permet de renforcer les liens.  Dans son allocution,  le président de l’association Dramane Diarra a d'abord rappelé que son équipe doit réaffirmer le rôle de l’expert dans l’activité économique et sociale du pays ainsi que dans les différentes activités engendrées au sein du CNPM. Selon le président de l’AMEITA, il s’agira d’une sensibilisation des responsables, des usagers et des opérateurs économiques par le biais du contact direct.</p>
+
+<p>Pour Dramane Diarra, les compétences de l’expert, couvrent la quasi-totalité de l’activité économique. L’expert poursuit-il, est commis pour aider à comprendre les sinistres dont certains auraient pu être évités par les examens antérieurs.</p>
+
+<p>« Il nous plait aujourd’hui de rappeler que pour les assises de l’assemblée générale élective du 26 septembre 2020 du CNPM vous avez été sollicité par des dizaines de patrons d’entreprises pour conduire la destinée de notre faitière ce que nous avez fini par accepter et de porter par la suite votre candidature à la présidence de notre faitière », a-t-il déclaré. Pour lui, l’AMEITA exprime vivement son adhésion à l’élection du président Diadié dit Amadou Sankaré et est prête à l’accompagner dans le développement de notre faitière, le CNPM par la grâce de Dieu et par nos engagements réciproques nous réussirons la réforme. 
+Le Président du Patronat Diadié dit Amadou Sankaré a d’abord félicité l’association pour ce regroupement à vocation économique. Il a ensuite déploré le fait que l’association est presque méconnue du grand public.   Pour lui, le transport est l'un des facteurs les plus importants du développement dans un pays comme le notre. Selon lui, cette visite est une manière d’écoute mais également d’apporter des solutions aux différents soucis auxquels est confronté cette couche de la société. Diadié a précisé que ce secteur de l’économie ne doit pas être marginalisé et sera pas.  « Nous sommes en train de faire le tour des association pour connaitre les réalités, noter les forces et les faiblesses afin de les accompagner dans leur missions », a déclaré le président du CNPM avant de galvaniser les responsables d’AMEITA à songer à la médiatisation.</p>",
+  "categorie" : "default",
+  "typeIsArticle" : true,
+  "id" : "maliamadou-nm03g0e3",
+  "date" : "2021-01-17"
+}{ 
+  "title" : "Lutte contre les  Mutilations Génitales Féminines : L'ONG JDWS et partenaires s'engagent dans le combat !",
+  "content" : "<h2>L'ONG JDWS et partenaires s'engagent dans le combat !</h2>
+
+<p>Par Alassane CISSE</p>
+
+<p>Le Mali à  l’instar de la communauté internationale,  a célébré le samedi 6 février 2021,  la journée internationale de lutte contre les mutilations génitales féminines ou tolérance zéro. Placé sous le thème national « Consolider l’engagement politique national pour mettre fin aux Violences Basées sur le Genre en vue de l’atteinte des objectifs du développement durable 2030 à travers l’accélération de l’abandon des MGF/E/VBG ». Pour la circonstance, l'ONG Justice and Dignity for the Women of Sahel (JDWS) n'est pas restée en marge de cet évènement et a organisé une rencontre sur le thème :《Agir pour mettre fin aux mutilations génitales féminines.》</p>
+
+<figure>
+<img src="./public/img/WhatsApp15.jpeg"><img src="./public/img/WhatsApp18.jpeg"><img src="./public/img/WhatsApp16.jpeg">
+</figure>
+
+<p>Il faut d'abord rappeler que  cette journée intervient dans  une période particulièrement sensible pour le Mali à savoir la crise sanitaire (COVID19) et les profondes crises que  le pays connait.  Cette rencontre de l'ONG JDWS était conduite par sa Présidente  Aida Hamahady Oualate et a enregistré la participation de plusieurs personnalités. Le  Panel  était porté comment  chercher les voies et moyens pour éradiquer ces pratiques néfastes sur les jeunes filles. Lors des échanges, les participants se sont bien exprimés sur le danger qui découlent des Mutilations Génitales Féminines. Certaines personnes ont fait de témoignages poignants sur les différents projets que Madame Aida Hamahady Oualate et son organisation mènent concernant les violences basées sur le genre et les Mutilations Génitales Féminines. Pour d'autres, c'est une brave femme, militante de la défense des droits des femmes. Elle est toujours reconnue à travers son engagement. Aujourd'hui avec son organisation, elle a pu réaliser beaucoup de choses. Les participants ont souligné les moyens nécessaires pour mettre fin aux Mutilations Génitales Féminines et défendre les droits de la femme.</p>
+
+<figure>
+<img src="./public/img/IMG-20210207-WA0152.jpg">
+<figcaption>Aida Hamahady Oualate, Présidente de l'ONG JDWS</figcaption>
+</figure>
+
+<p>La Présidente de l'ONG JDWS, Aida Hamahady Oualate,  dira également que sans nul doute ces interventions  auront été favorablement capté par l'auditoire et ont largement contribué au succès de  leur activité. En effet, certes les lois existent, certes les communautés se disent mobilisées et concernées, mais les chiffres ne cessent de monter. Pour les 200 millions de femmes et jeunes filles, mais aussi pour les milliards de victimes potentielles, on se doit de continuer le combat. Elle a remercié tout le monde d'avoir participé à cette rencontre pour parler sur les questions de la femme. Elle espère compter sur les participant pour leurs futures missions que l'ONG compte entreprendre.</p>
+
+<h3>Qu'est ce que l'ONG JDWS ?</h3>
+
+<p>Il faut souligner que  Justice and Dignity for Women of Sahel (JDWS) est une organisation qui se bat au quotidien pour rendre la dignité des femmes du sahel (JDWS), à travers sa Présidente Aïda Hamahady Oualate. Depuis sa création, il ya de cela quelques années, l'ONG JDWS, s'est imposée et a tenté avec les moyens de bord, de lutter  contre les Violences Basées surphénomène par le biais d'actions directes  comme l'appui à la prise en charge des victimes et aussi par le biais d'actions indirectes telles que : les campagnes  de sensibilisation, des analyses de situation du phénomène (enquêtes) et enfin les actions de plaidoiries. Ce sont entre et autres les principales actions de L'ONG JDWS même si elle compte élargir son champ d'actions dans le futur avec la mise en place des centres d'accueil et d'écoute et aussi des activités de renforcement de capacité pour rendre la femme plus indépendante et autonome. L'ONG JDWS a également beaucoup d'actions visant à rendre la dignité des femmes victimes. Car notre société est organisée selon les normes et des lois dont la justice garantit. Ce qui signifierait que tout acte attentatoire aux droits des femmes est puni.  Dans le cadre des Violences Basées sur Genre,  le constat est là a travers une atteinte à la dignité de la femme et une violation de son intégrité physique en tant qu'humain. C'est dans cette optique que L'ONG JDWS s'engage résolument à travers Madame Aïda Hamahady pour mener des combats nobles pour la cause des femmes.</p>",
+  "categorie" : "default",
+  "typeIsArticle" : true,
+  "id" : "luttecontreles-7ija4o4h",
+  "date" : "2021-01-20"
+}{ 
+  "title" : "Fonds climat Mali :  Première réunion préparatoire de la troïka gouvernementale tenue",
+  "content" : "<p style="text-align:right">Par Alhassane Cissé  Avec Alou Badra Doumbia</p>
+
+<p>Madame la Ministre de l'Environnement, de l'Assainissement et du Développement Durable, Bernadette Keïta a présidé hier, à son département la 1ère réunion préparatoire de la Troïka gouvernementale du Fonds Climat Mali. C'était en présence de la coordinatrice dudit fonds Mme Diarra Lalla Camara ainsi que l'ensemble des acteurs concernés.</p>
+
+<figure>
+<img src="./public/img/Whatsapp65.jpeg">
+<figcaption>Madame la ministre de l'environnement Bernadette Keïta</figcaption>
+</figure>
+
+<figure>
+<img src="./public/img/Secr%C3%A9taire%20G%C3%A9n%C3%A9raux%20de%20la%20Troika%20gouvernementale%20-%20Agence%20de%20L'Environnement%20D%C3%A9veloppement%20Durable..JPG">
+<figcaption>La Ministre, les Secrétaires Généraux de la Troïka gouvernementale, le directeur de l'Agence de L'Environnement et du Développement Durable à gauche et la Coordinatrice du secrétariat technique du Fonds climat Mali</figcaption>
+</figure>
+
+<p>Il faut d'abord reconnaitre que le Mali est l'un des pays sahéliens les plus touchés par les changements climatiques. En effet, les évolutions observées et les prévisions montrent une détérioration des conditions climatiques avec : une augmentation de la température moyenne sur l'ensemble du pays et une hausse de l'évapotranspiration potentielle ; une diminution progressive de la pluviométrie avec une accentuation du déplacement des isohyètes vers le sud.... En outre une perte de production agricole d'environ 17% est envisagée d'ici 2050 ; ce qui pourrait atteindre 28% si aucune action d'adaptation n'était entreprise. C'est dans ce contexte que le gouvernement du Mali a identifié la mise en place d'un Fonds  National  d'appui aux réponses  aux changements climatiques comme un besoin prioritaire, afin de servir comme moteur de la réalisation des objectifs dans le domaine des changements climatiques au Mali. Crée le 26 janvier 2012 à New York suite à un protocole d'accord signé entre le gouvernement du Mali et le bureau des Fonds Multi Partenaire (MPTF) du PNUD, l'objectif principal du fonds  est d'aider le Mali à financer les interventions de développement stratégiques telles que définies dans la stratégie nationale Économie Verte et Résiliente aux Changements (EVRCC). Il doit permettre la mise en œuvre intégrée du cadre stratégique climat pour passer d'une approche projet à une approche multisectorielle pour renforcer la résilience des populations vulnérables.</p>
+
+<p>Opérationnel depuis 2014, le Fonds Climat Mali occupe une place de taille dans la finance climatique au Mali. En effet, le Fonds Climat Mali a financé vingt quatre (24) projets pour un montant total de 27576259 de dollars américains soit environ 13788129500 de Fcfa dont 10972844 de dollars américains soit 5486422000 Fcfa transférés et 16603415 dollars américains soit 8 301707500 Fcfa en attente de transfert.
+Les objectifs spécifiques de ce fonds visent : à présenter le Fonds Climat Mali à la Troïka gouvernementale ; présenter les acquis et difficultés du Fonds Climat Mali à la Troïka gouvernementale ; faire un plaidoyer fort auprès de la Troïka gouvernementale afin que le gouvernement de la République du Mali accompagne davantage le Fonds Climat Mali.</p>
+
+<figure>
+<img src="./public/img/Whatsapp67.jpeg">
+<img src="./public/img/Whatsapp68.jpeg">
+</figure>
+
+<p>Dans son discours marquant l'ouverture des travaux de la réunion, Madame le Ministre de l'Environnement, de l'Assainissement et du Développement Durable  a d'abord rappelé que notre pays en tant que partie ayant ratifié la Convention Cadre des Nations Unies sur les Changements Climatiques et le Protocole de Kyoto, a souscrit à d'importants engagements Selon la responsable du département, pour lutter contre les effets néfastes de ce fléau mondial. Depuis 2015, avec l'accord de Paris sur le Climat, à l'instar des autres pays, notre pays dispose d'un outil de mise en œuvre dudit accord ( contribution déterminée au niveau national) permettant une meilleure mise en œuvre de leur stratégie nationale "Économie Verte et Résiliente aux Changements Climatiques" découlant de la politique nationale sur les Changements Climatiques et sa stratégie.  Cette  première rencontre a été effectivement initié dans cette dynamique.  Elle a ensuite fait savoir que le but de ce Fonds Climat Mali consiste à aider notre pays à financer les interventions stratégiques telles que définies dans la stratégie nationale " Économie Verte et Résiliente aux Changements Climatiques ".</p>
+
+<p>À ce titre, il est un mécanisme financier important dans la lutte contre les effets néfastes des changements climatiques et la pauvreté dans notre pays et contribue  naturellement a la mise en œuvre du Cadre Stratégique pour la Relance Économique et le Développement Durable (CREDD). Elle a aussi remercié les partenaires Suédois et  Norvégiens et ainsi que l'accompagnement technique  du PNUD qui ont significativement contribué à la réalisation des projets. Bernadette Keïta à ainsi signaler que le 4ème appel  à proposition de projets en cours, mobilisera plus de 5,6 millions de dollars américain déjà acquis et qui pourrait connaître une hausse de financement. En effet le Fonds Climat Mali devient progressivement une référence dans le financement climatique au Mali à travers ses interventions qui couvrent les domaines de l'Agriculture, de l'Élevage, de la Pêche/Pisciculture, l'Énergie, la Foresterie  et l'Éducation. Quant à la coordination gouvernementale (Troïka) Madame Diarra Lala Camara, qui devait lui donner toute sa pertinence. Et les prochaines travaux de la troïka qui devait se tenir le 15 de ce mois pour d'autres échanges fructueux, à fini par être repoussée  à une date ultérieure.</p>",
+  "categorie" : "default",
+  "typeIsArticle" : true,
+  "id" : "fondsclimatmali-of41tj39",
+  "date" : "2021-02-08"
+}{ 
+  "title" : "MALI : Fin des assises sur le coton : Les acteurs s'engagent à rendre la filière plus compétitive et prospère !",
+  "content" : "<p>Par Alassane Cissé</p>
+
+<p>Sous la présidence du  Premier Ministre, Moctar Ouane, le Centre International de Conférence de Bamako a abrité la clôture des assises sur le coton. Cette importante cérémonie qui a enregistré la présence de Ould Mohamed Mahmoud, Ministre de l'Agriculture, de l'Élevage et de la Pêche et d'éminentes personnalités du monde rural a été l'occasion pour eux de multiplier leurs efforts pour booster le secteur coton dans la sous région.</p>
+
+<figure>
+ <img style="height:30%; width:auto;" src='http://mehari-consulting.com/public/img/IMG-20210208-WA0151.jpg'>
+ <img style="height:30%; width:auto;" src='http://mehari-consulting.com/public/img/IMG-20210208-WA0153.jpg'>
+</figure>
+
+<p>Il faut souligner qu'après plusieurs jours de travaux, les participants ont reformulé des recommandations pertinentes visant à améliorer la filière coton sur le plan national et sous régional.</p>
+
+<p>Dans son allocution, le Ministre de l'Agriculture, de l'Élevage et de la Pêche, Mahmoud Ould Mohamed, dira que l’organisation des assises nationales sur le coton, préconisée par mon département, s’inscrit en droite ligne de l’axe 2 du Programme d’Actions du Gouvernement de transition (PAG), à savoir la promotion de la bonne gouvernance. Il dira que la filière coton qui est la colonne vertébrale de  l'économie du pays, fait face à des crises récurrentes qui nécessitent des mesures appropriées pour sauver la filière des menaces qui peuvent compromettre son développement durable.</p>
+
+<p>Les présentes assises du Coton qui se clôturent à Bamako, ont permis l’implication de tous les acteurs concernés à travers les ateliers de réflexion tenus au niveau régional et national avec l’appui des experts de la filière coton. L’originalité de ces assises réside surtout dans l’inclusivité dans la démarche qui a consisté à faire remonter les propositions de solutions de sorties de crises de la base au sommet.
+ Il a fait savoir que l’objectif de ces assises, était de contribuer à la relance de la culture du coton au Mali, en vue de la rendre plus résiliente, compétitive et durable. A l’issue de ces travaux, des recommandations pertinentes ont été formulées par les participants. </p>
+
+<p>Il a saisi cette occasion, pour assure l’engagement de son département pour la mise en œuvre de ces recommandations en rapport avec l’ensemble des acteurs de la filière et avec l’accompagnement politique des plus hautes autorités du pays.  Selon le Ministre, le coton malien peut et doit reconquérir sa place de leader au niveau sous régional et en Afrique. Le secteur coton doit se surpasser et aider le Mali à briser le cercle vicieux de la pauvreté et de la précarité.  </p>
+
+<figure>
+ <img style="height:30%; width:auto;" src='http://mehari-consulting.com/public/img/IMG-20210208-WA0154.jpg'> 
+ <img style="height:30%; width:auto;" src='http://mehari-consulting.com/public/img/IMG-20210208-WA0155.jpg'> 
+</figure>
+
+<p>Au-delà de l’importance stratégique de la filière du coton pour l’économie nationale et la sécurité alimentaire et nutritionnelle des populations, je voudrais rappeler que le coton joue un rôle important dans le renforcement de la cohésion sociale et dans la résolution des conflits communautaires. Ainsi l’investissement dans la promotion d’un secteur de coton résilient, compétitif et durable est un levier fort pour l’atteinte des objectifs de développement durable (ODD-1 et 2) à l’horizon 2030.  Il a enfin exprimé au nom de l'ensemble des acteurs de la filière, la gratitude pour l’apurement des arriérés de la subvention des intrants agricoles du système coton pour près de 80 milliards de nos francs CFA.</p>
+
+<p>Quant au Premier Ministre Moctar Ouane,  marquant la fin des assises, a félicité les acteurs de la filière et les partenaires pour les efforts consentis dans le but du développement du pays. Pour sa part, le Gouvernement ne ménagera aucun effort pour accompagner le secteur dans la croissance économique.</p>",
+  "categorie" : "default",
+  "typeIsArticle" : true,
+  "id" : "malifin-s6iu6m9c",
+  "date" : "2021-02-09"
+}{ 
+  "title" : "Accord d'Alger :  Le  volet de défense et  sécurité  sur la table  des parties maliennes !",
+  "content" : "<p>Par Alassane Cissé</p>
+
+<p>Depuis la signature solennelle de l'accord pour la paix et la réconciliation nationale issu du processus d'Alger, les questions de défense et de sécurité demeurent toujours préoccupantes au regard de la recrudescence des attaques un peu sur l'ensemble du territoire national.  Cela constitue également l’un des axes stratégiques majeurs de l’action du gouvernement de Transition. C'est dans cette optique le  département en charge de la réconciliation nationale et de la cohésion sociale a organisé ce lundi 08 février 2021, la Réunion de Niveau décisionnel des parties à l'Accord pour la Paix et la Réconciliation au Mali, issu du processus d’Alger, à l'hôtel Radisson Blue de Bamako.</p>
+
+<figure>
+ <img src='http://mehari-consulting.com/public/img/WhatsApp%20Image23085.jpeg'> 
+ <img src='http://mehari-consulting.com/public/img/WhatsApp%20Image%202021-02-09%20at%2023.08.51.jpeg'> 
+</figure>
+
+<p>La cérémonie d'ouverture de ladite rencontre était présidée par M. Attaher AG Iknane, Secrétaire Général du Ministère de la Réconciliation Nationale représentant son Ministre le Colonel Major ISMAËL_WAGUÉ, en présence du chef d'état Major Général des Armées le Général de Brigade Oumar Diarra, le représentant du Ministre de la Défense et des Anciens Combattants.</p>
+
+<p>L'objectif global de cette réunion de niveau décisionnel, est de diligenter la mise en œuvre des actions prioritaires de Défense et de Sécurité de l’Accord pour la Paix et la Réconciliation, issu du processus d’Alger.</p>
+
+<p>Il faut d'abord rappeler que  malgré les insuffisances de l'accord, les autorités du pays  ne cessent de multiplier les démarches afin de rétablir la paix, la sécurité et le développement au Mali, notamment dans sa partie septentrionale.  C’est dans ce contexte, après la récente visite de quelques membres du gouvernement à Kidal, qu’une réunion de niveau décisionnel des parties maliennes à l’Accord s'est tenue afin de discuter  sur les questions de défense et de sécurité. Objectifs : harmoniser les compréhensions sur les aspects Défense et Sécurité de l’Accord et surtout de répondre partiellement et efficacement aux attentes des populations.</p>
+
+<figure>
+ <img src='http://mehari-consulting.com/public/img/WhatsApp%20Image230857.jpeg'> 
+</figure>
+
+<p>Dans son intervention marquant l'ouverture des travaux, le secrétaire général du ministère de la Réconciliation nationale a indiqué que l’Accord se présente comme un cadre de construction de l’édifice de paix dans notre pays, ouvrant aux acteurs de nouvelles perspectives de cohésion et d’échanges, de recherche de solutions justes à des problèmes communs. Et ce, afin de bâtir, selon Attaher Ag Iknane, une nation forte et réconciliée avec elle-même.</p>
+
+<p>Rappelant l’engagement du gouvernement de Transition dans la mise en œuvre du document, le représentant du ministère de la Réconciliation nationale a signalé que le rétablissement de la stabilité et de la sécurité est gage d’un développement harmonieux. En vue de l’éradication de la pauvreté à travers l’accès pour tous aux services sociaux de base. «Il incombe aux experts de concilier en permanence le triptyque ‘’paix-sécurité-développement’’ dans leurs approches», a fait savoir Attaher Ag Iknane. De son côté, le chef d’État-major général des Armées, Oumar Diarra, a exhorté les participants à faire de la réunion un point de repère important en termes d’avancées dans la mise en œuvre des questions de défense et de sécurité relative à l’Accord pour la paix et la réconciliation. Le général Oumar Diarra a par ailleurs annoncé la rentrée prochaine dans les centres de formation militaire de 451 ex-combattants, reconnus aptes à l’issue des opérations de rattrapage. «Ils seront bientôt intégrés dans les forces armées», a-t-il ajouté au cours de cette rencontre, plusieurs thématiques seront débattues: le concept des ‘’forces armées et de sécurité reconstituées’’, la définition des quotas (civils et militaire) et la gestion des combattants anciennement membres des forces armées et de sécurité.</p>",
+  "categorie" : "default",
+  "typeIsArticle" : true,
+  "id" : "accorddalger-qdarlytk",
+  "date" : "2021-02-09"
+}{ 
+  "title" : "MALI : Le nouveau Président du Patronat chez les immobiliers",
+  "content" : "<h2>Amadou Diadié Sangaré ambitionne un secteur privé prospère pour le Mali</h2>
+
+<p>Alou Badra DOUMBIA, Alassane Cissé avec Mohamed AG AHMEDOU</p>
+
+<p>Depuis son élection à  la tête du Conseil National du Patronat du Mali (CNPM), son nouveau président Amadou  Diadié Sankara élu pour un mandat de 5 ans ne cesse de multiplier ses rencontres avec l'ensemble du secteur privé malien. Après sa visite de la semaine dernière au siège de l’Association Malien des Experts Évaluateurs Agréés en Industrie et Transport (AMEITA), il s'est rendu hier mardi 09 février 2021 à l’Association des Promoteurs Immobiliers du Mali (APIM). Cette prise de contact permet au Président de s'imprégner des réalités du terrain.</p>
+
+<p>Il faut bien le rappeler que le secteur privé malien traverse une période très difficile au regard de la situation du pays. Au cours des échanges avec le Président Amadou  Diadié Sangaré, le Président de l'Association des Promoteurs Immobiliers du Mali (APIM), Sory Ibrahima Maïga souligne que cette visite du patron des patrons à  leur siège n'est pas surprenante vu ses ambitions pour le secteur. Les échanges se sont portés sur quatre à  cinq  points parmi lesquels  la situation des promoteurs immobiliers du Mali qui était au centre d'intérêt.</p>
+
+<p>Ces questions étaient entre et autres : le problème de surface à identifier au Mali, la rationalisation des espaces, des décrets que le gouvernement doit signer et certains besoins qui avaient fait l’objet de doléances auprès du Ministre du Commerce et la Promotion des Investissements ont également été élaborés. Pour Sory Ibrahima Maïga, le patronat a été sollicité comme un soutien  à leur association mais aussi dans plusieurs domaines. Il  a aussi saisi l’occasion au nom de son association pour travailler avec le nouveau détenteur des clés  du Patronat durant tout son mandat :« Faisons tout pour mutualiser nos efforts », a-t-il conclu.</p>
+
+<figure>
+ <img src='http://mehari-consulting.com/public/img/WhatsApp193002.jpeg'> 
+ <img src='http://mehari-consulting.com/public/img/IMG-20210209-WA0187.jpg'> 
+</figure>
+
+<p>Quant à Cheick Keïta, le secrétaire permanent à l’APIM, il a souligné que le Président du CNPM a beaucoup d'ambitions pour leur secteur.  Il s'est toujours engagé pour promouvoir le secteur privé malien plus compétitif et c'est pourquoi son élection à son poste ne surprend personne. Il dira que le titre foncier est le principal problème du domaine immobilier et il a invité le Président et sa nouvelle équipe à trouver une solution rapide à cette pratique malsaine: « Un titre bien acquis n’a jamais de problème », a déclaré M. Keïta.</p>
+
+<p>Pour sa part, le président du CNPM a d’abord inscrit cette visite dans le cadre d’une série de rencontres qu’il a entamées depuis le début de sa mandature.   Répondant aux questions des différents intervenants, Amadou Diadié Sankaré a estimé que le  problème des promoteurs immobiliers n’est pas le financement mais qu’il se situe au niveau du refinancement qui est selon lui, le maillon manquant de  l'économie. Il promet de ne ménager aucun effort pour relever ce défi.</p>
+
+<figure>
+ <img src='http://mehari-consulting.com/public/img/WhatsApp10193002.jpeg'> 
+</figure>
+
+<p>En ce qui concerne les cas de titre foncier au Mali,  Amadou Diadié Sankaré a estimé que le titre foncier est l’assurance de vie du malien: « Le titre foncier ne permet ni d’activer une action judiciaire ni d’activer une décision financière », a-t-il précisé. Il a profité de l'occasion pour inviter les uns et les autres à s’organiser en lobbying pour réussir leurs missions.</p>",
+  "categorie" : "default",
+  "typeIsArticle" : true,
+  "id" : "malilenouveau-wbfpz5p2",
+  "date" : "2021-02-10"
+}{ 
+  "title" : "MALI : Retour de 171 migrants au bercail",
+  "content" : "<p>Par Alhassane CISSE Avec Mohamed Ag AHMEDOU</p>
+
+<p>Le rapatriement des maliens continue à travers le Haut Conseil des Maliens de l'Extérieur (HCME), avec l'appui de l'Organisation Internationale  des Migrants (OIM). Le mardi 09 février 2021, cent soixante-onze (171) migrants maliens dont deux femmes et deux enfants ont regagné Bamako en provenance d'Agadez (Niger). Ils ont été accueilli à l'aéroport international Modibo Keïta par le Chef de Cabinet du Ministère des Maliens de l’Extérieur et de l’Intégration Africaine, Monsieur Mohamed AG ALBACHAR. C'était en présence des membres du Haut Conseil des Maliens de l'Extérieur Monsieur Yaya Koné et Mamadou BANE.</p>
+
+<figure>
+<img src="http://mehari-consulting.com/public/img/Arriver%20des%20migrants.JPG">
+<figcaption>Arrivée des migrants ce matin à l'aéroport international Président Modibo Keita de Bamako</figcaption>
+</figure>
+
+<p>À noter que ces Maliens rapatriés du Niger ont été hébergé à la cité d'accueil des migrants, sis à Niamakoro Citée UNICEF, un quartier au cœur de la capitale malienne. L’objectif de cette activité consiste à réitérer l’assistance sans faille du Gouvernement de la République du Mali, en général, et du Ministère des Maliens de l’Extérieur et de l’Intégration Africaine, en particulier, aux citoyens maliens en détresse, qu’ils soient hors du territoire malien.</p>
+
+<p>Il faut aussi signaler que pour venir en aide aux maliens, qui se trouvent dans ces situations délicates, les plus hautes autorités du Mali à travers l’ambassade à Niamey et en collaboration avec les autorités nigériennes, ont mis toute une logistique en branle pour ramener les migrants maliens sains et saufs. </p>
+
+<p>Le Chef de Cabinet a profité de l’occasion pour clarifier l’excellente collaboration entre le Mali et ses partenaires en matière de migration, notamment l’Organisation Internationale pour les Migrations (OIM). </p> 
+
+<p>Dans sa déclaration, le porte-parole des migrants a exprimé toute sa gratitude aux autorités du Mali de leur avoir permis de rejoindre le Mali. </p> 
+<p>Pendant quelques jours encore, les migrants, de retour au bercail, seront internés à Niamakoro, en attendant les résultats des tests COVID auxquels ils ont été soumis. Après les résultats desdits tests, ils pourront rejoindre leurs familles, avec un appui financier. </p> 
+",
+  "categorie" : "default",
+  "typeIsArticle" : true,
+  "id" : "maliretourde-2zv596oj",
+  "date" : "2021-02-10"
+}{ 
+  "title" : "MALI : KOULIKORO : " le patron des patrons accueilli comme un espoir des femmes et des hommes entrepreneurs",
+  "content" : "<p>Par Mohamed Ag Ahmedou</p>
+
+<p>Amadou dit Diadie Sankare patron du patronat malien à la tête d'une forte délégation comprenant le vice-président Ibrahima Diawara et le secrétaire par intérim Boubacar Seddick Diallo ainsi que le trésorier du Conseil National du Patronat du Mali (C.N.P.M) ont effectué ce jeudi une visite de prise de contact et de consultation au Conseil Patronal Régional de Koulikoro(C.P.R.K.). </p>
+
+<figure>
+<img src="http://mehari-consulting.com/public/img/WhatsApp%20Image%202021-02-11%20at%2021.52.04.jpeg">
+<figcaption>Diadié Sankare, Sékou Diakité président du CPRK et le vice-président du CPRK</figcaption>
+</figure>
+
+<p>Installé depuis quelques mois, le bosse de la Holding malienne "SAER EMPLOI" ne cesse de multiplier des visites à des structures de l'organisation dont il est désormais à la tête pour un mandat de 5 ans. </p>
+
+<p>Après les groupements des transporteurs et des immobiliers le numéro 1 du patronat commence sa tournée des régions du Mali par le chef-lieu de la région de Koulikoro où il a été accueilli par le président du conseil patronal de ladite région avec une grande équipe a leur siège. </p>
+
+<p>À l'ouverture des discussions l’incontestable leader du Patronat malien a pris la parole en premier et invita ensuite les dirigeants de sa représentation régionale de Koulikoro à faire un topo de la situation à lui et à la délégation présente afin de s'acquérir des conditions dans lesquelles ils vivent pour trouver par la suite des solutions idoines. </p>
+
+<p>《Nous sommes très ravis et très reconnaissant d'avoir eu l'honneur de vous accueillir ce matin à Koulikoro 》s'en réjouis monsieur Sékou Diakité, président du Conseil Patronal de Koulikoro qui sans plus tarder enchaine avec les problèmes urgents auxquels il exhorte ses dirigeants du bureau de Bamako a trouver des solutions qui sont entre autres le développement du "secteur privé " qui sera la seule clefs de l'épanouissement de toute la région de Koulikoro. Ce qui permettra pour ce dernier d'en finir avec les difficultés liées au manque d'accès au financement des entreprises, aux marchés, coûts élevés des facteurs de production d'électricité et d’eau, concurrence déloyale, l'absence de mécanismes d'appui aux entreprises en difficultés, lourdeur dans les procédures administratives et judiciaires, coûts élevés des taxes et des impôts et enfin la difficulté d'accès à une main d'œuvre qualifiée. </p>
+
+
+<p>En ce qui concerne les défis à relever le leader du Patronat de Koulikoro endosse la négativité de leurs impacts à la proximité avec Bamako. </p>
+
+<p> " Nous avons un grand espoir pour que ça change de bon pour nous les femmes de la 3ème région et que nous voyons enfin la lumière dans le domaine entrepreneurial sous le mandat du président Diadie Sankare " a lancé Fatoumata karambé membre du CPR de KOULIKORO qui atteste que le nouveau président du CNPM "est un espoir pour les femmes entrepreneurs du Mali".</p>
+
+<p>Ce que confirme monsieur Boubacar Sidiki un autre membre du CPRK qui réitère également son soutien indéfectible et la confiance placée en Diadie par des milliers d'entrepreneurs maliens qui le voient en bon leader et visionnaire qui tracera le chemin de la réussite de l'entreprenariat du Mali dans le bon sens tant souhaité. </p>
+
+<figure>
+<img src="http://mehari-consulting.com/public/img/WhatsApp%20Image%202021-02-11%20at%2021.48.00%20(1).jpeg">
+<figcaption>De la gauche vers la droite,  Ibrahima Diawara vice-président du patronat du Mali   Diadie Sankare pdt du CNPM et Sékou Diakité pdt du CPR K</figcaption>
+</figure>
+
+<p>Pour ses mots de fin le président a remercié les différents intervenants qui lui ont fait un   exposer en filigrane des états de lieux de la situation catastrophique globale de Koulikoro et il a rappelé qu'il ne ménagera aucun effort pour tenter de trouver les bonnes solutions à  leurs doléances. Il a également fait savoir qu'il connaît depuis longtemps les réalités de la région de Koulikoro où sa carrière professionnelle a démarré en tant que conseiller économique du gouverneur le 27 Avril 1984. </p>
+<p>Monsieur Sankare a également souligné aux Koulikorois que pour pallier aux problèmes de proximité avec Bamako il faut transformer les risques de proximité en leur expliquant de faire autant de la préférence nationale aussi à en faire une préférence régionale pour que ça marche tout en terminant par dire que les difficultés sont partout il y a beaucoup de consultations et d'analyses à faire pour répondre aux besoins de tous. </p>
+
+<figure>
+<img src="http://mehari-consulting.com/public/img/WhatsApp%20Image%202021-02-11%20at%2021.47.24.jpeg">
+<figcaption>Photo de famille des membres du CNPM avec ceux du CPR K</figcaption>
+</figure>
+
+ <p>Rappelons qu'il a été élu président du conseil national du Patronat du Mali le 08 Octobre 2020 avec une grande majorité contre l'ancien président sortant Mamadou Sinsin Coulibaly qui n'a eu qu'un seul émargement de voix lors de l'électorat final. </p>
+",
+  "categorie" : "default",
+  "typeIsArticle" : true,
+  "id" : "malikoulikoro-rzani211",
+  "date" : "2021-02-11"
+}{ 
+  "title" : "OHADA : Le Mali assure désormais la présidence tournante",
+  "content" : "<p> Par Alassane Cissé avec MJDH</p>
+
+<p>Le Premier Ministre Moctar Ouane a présidé ce jeudi 11 février 2021 au Centre international de conférences de Bamako (CICB), la cérémonie de passation de présidence entre la République de Guinée équatoriale, Président sortant et la République du Mali, Président entrant de l’organisation pour l’harmonisation en Afrique du droit des affaires (OHADA). Cette importante cérémonie a enregistré la présence du Ministre de la Justice et des Droits de l’Homme, Garde des Sceaux et le représentant de son collègue de l’économie et des finances ainsi que plusieurs représentants des PTFs, des Ambassadeurs et le Secrétaire Permanent de l’organisation, Pr Emmanuel Sidibi DARANKOUM. </p>
+
+<figure>
+<img src="http://mehari-consulting.com/public/img/WhatsApp%20Image%202021-02-12%20at%2000.01.28.jpeg">
+<figcaption> Le Premier Ministre Moctar Ouane </figcaption>
+</figure>
+
+
+<p>Dans son allocution marquant l'ouverture de la cérémonie, M. DARANKOUM a exprimé sa gratitude aux Institutions et organes de l’OHADA ainsi qu’aux Autorités maliennes dont le Ministre de la Justice, M. Mohamed Sidda DICKO, pour avoir conduit à bon port ce processus de passations de charges. Il a rappelé le rôle historique joué par le Mali dans la consolidation des acquis de l’organisation dont la décision portant statut de l’Ecole régionale supérieure de la magistrature en 1995, le Sommet d’octobre 2005 à Bamako,  la décision relative à la sécurité du personnel international de l’OHADA, le principe de la relecture des arrangements de Ndjamena, le démarrage du projet Registre de commerce et du crédit immobilier. En plus de ces avancées prépondérantes, la contribution du Mali concerne également la révision du traité, le code de travail OHADA, l’audit des comptes des institutions, etc. </p>
+
+
+<p>S’exprimant après avoir reçu les attributs de la présidence (étendard OHADA à l’attention du Président de la Transition nouveau président en exercice de la Conférence des Chefs d’Etat et de Gouvernement des 17 Etats membres de l’OHADA, drapelet, maillet et accessoire, imperium), le ministre Mohamed Sidda DICKO, nouveau Président du conseil des ministres a réitéré ses sincères remerciements au Président du Conseil des Ministres sortant, Salvador ONDO NCUMU de Guinée Équatoriale. Il a exprimé sa reconnaissance à la République de Guinée Équatoriale pour son action à la présidence de l’organisation tout au long de l’année 2020 principalement marquée par la pandémie de COVID-19 qui n’a pas permis de réaliser des activités substantielles et de mettre en œuvre un plan ambitieux qu’avait initié le pays pour l’organisation. </p>
+
+<figure>
+<img src="http://mehari-consulting.com/public/img/WhatsApp%20Image%202021-02-12%20at%2000.01.27%20(1).jpeg">
+<figcaption>Le PM Moctar Ouane et le Ministre de la justice Mohamed Sidda Dicko </figcaption>
+</figure>
+
+<p>Le Ministre a garanti que le Mali ne ménagera aucun effort en vue d’assurer, non seulement la consolidation des acquis, mais aussi la réalisation de nouveaux succès à l’OHADA pour l’année 2021.</p>
+
+
+ <p>Le système juridique et judiciaire de l'OHADA est l'une des expériences d'intégration juridique les plus réussies de la fin du 20ème siècle. Créée par le Traité de Port-Louis du 17 octobre 1993 (révisé le 17 octobre 2008 à Québec - Canada), l'OHADA est une organisation internationale de plein exercice, dotée d'une personnalité juridique internationale, qui poursuit une œuvre d'intégration juridique entre les pays qui en sont membres. L'adhésion, prévue par l'article 53 du Traité, est ouverte à tout État membre de l'Union africaine non signataire et à tout État non-membre de l'Union africaine et invité à y adhérer d'un commun accord de tous les États parties. L'OHADA regroupe aujourd'hui 17 États (Bénin, Burkina Faso, Cameroun, Comores, Congo, Côte d'Ivoire, Gabon, Guinée Bissau, Guinée, Guinée Equatoriale, Mali, Niger, République Centrafricaine, République démocratique du Congo, Sénégal, Tchad, Togo). Son objectif est la facilitation des échanges et des investissements, la garantie de la sécurité juridique et judiciaire des activités des entreprises. Le droit de l'OHADA est ainsi utilisé pour propulser le développement économique et créer un vaste marché intégré afin de faire de l'Afrique un « pôle de développement ». </p>
+
+
+<figure>
+<img src="http://mehari-consulting.com/public/img/WhatsApp%20Image%202021-02-12%20at%2000.01.27.jpeg">
+<figcaption> Présidium de la cérémonie de passation des charges de l'OHADA </figcaption>
+</figure>
+
+<p>Pour réaliser ces objectifs, l'OHADA s'est dotée d'un système institutionnel structuré autour des organes que sont la Conférence des Chefs d'État et de Gouvernement, le Conseil des ministres (organes politiques) et le Secrétariat permanent qui est l'organe exécutif chargé d'assister le Conseil des ministres et de coordonner la préparation et le suivi de la procédure relative à l'adoption des Actes uniformes. Pour des raisons d'efficacité, deux autres organes spécialisés complètent le système institutionnel. Il s'agit de la Cour commune de Justice et d'Arbitrage de l'OHADA (CCJA) et de l'École Régionale Supérieure de la Magistrature (ERSUMA). </p>
+
+
+<p>La CCJA de l'OHADA est l'unique expérience réussie de transfert de souveraineté judiciaire dans le monde. Elle est compétente pour connaître, en cassation, des pourvois contre les décisions rendues en dernier ressort en application des Actes uniformes de l'OHADA par les juridictions nationales des États parties. En cas de cassation, elle a le pouvoir d'évoquer afin de vider le contentieux sans aucun renvoi à une juridiction nationale. L'ERSUMA a vocation à former les professionnels de l'OHADA et à perfectionner leurs compétences. Elle est également un centre de recherche en droit des affaires. L'OHADA compte à son actif dix Actes uniformes déjà entrés en vigueur dans les États parties. La République du Mali, membre fondateur de l’OHADA, préside aux destinées de l’OADA pour la deuxième fois après celle de 2006. </p>
+",
+  "categorie" : "default",
+  "typeIsArticle" : true,
+  "id" : "ohadale-xk00newd",
+  "date" : "2021-02-12"
+}{ 
+  "title" : "MALI : BAMAKO : Exposition "Art en lumière " : la deuxième édition s'annonce en grande pompe ! ",
+  "content" : "<p>Par Alassane Cissé</p>
+
+<p>Sous le haut parrainage du Ministre de la Culture, de l'Artisanat et du Tourisme, Kadiatou Konaré, la deuxième édition de l'exposition "Art en lumière" se tiendra du 12 au 14 février 2021, sur la place du cinquantenaire. Cette information a été donnée ce jeudi au cours d'une conférence de presse animée par l'organisateur de l'évènement, Cheick Oumar Haïdara, en présence de ses partenaires et du représentant du département en charge de la culture. </p>
+
+<figure>
+<img src="http://mehari-consulting.com/public/img/WhatsApp%20Image%202021-02-12%20at%2020.07.52.jpeg">
+<figcaption> Présidium de la conférence de presse sur l'Art en lumière</figcaption>
+</figure>
+
+<p>Rappelons que la première édition de l'exposition " Art en lumière " a eu lieu en fin décembre 2019 sur le berge du fleuve Niger. C'est pour donner aujourd'hui une plus grande dimension à l'évènement que le promoteur de HGallery, Cheick Oumar Haïdara, principal organisateur a fait appel à ses partenaires qui sont entre et autres : Dana Group, Africa Scène, Agansi, CAMM. </p>
+
+
+<p>Dans son  intervention devant les hommes de média, l'organisateur Cheick Oumar Haïdara a fait savoir que cet évènement est organisé dans le but de faire la promotion des jeunes artistes peintres et d'inviter le public bamakois à l'élaboration d'une œuvre collective. Durant les 3 jours, sur les berges du fleuve Niger, les jeunes artistes peintres issus du centre "Balla Fasséké » tenteront de vendre leurs talents à travers leurs expositions d'art. Pour lui, cette activité rentre dans le cadre de la promotion de culture malienne. Il s'agit de montrer de jeunes artistes qui sont dans l'ombre.  Il y aura également la présence de grands artistes maliens de renommée internationale qui vont accompagner l'évènement. </p>
+
+
+<p>Quant à la promotrice du projet " Agansi" l'une des partenaires, a aussi réitéré son soutien sans faille en accompagnant les activités de cette deuxième édition à travers se canaux de communication. Car selon elle, cette exposition d'art mérite d'être accompagnée afin de promouvoir la culture malienne sur le plan international. </p>
+
+<figure>
+<img src="http://mehari-consulting.com/public/img/WhatsApp%20Image%202021-02-12%20at%2020.09.09.jpeg">
+<figcaption>L'organisateur Cheick Oumar Haïdara  dans sa HGallery </figcaption>
+</figure>
+
+<p>En ce qui concerne le promoteur de "Africa Scène"  Abou Djitteye a aussi salué l'initiative et s'engage à l'accompagner dans la réussite.  Pour lui, à travers son projet Bama'Art, va permettre d'attirer le public vers la place du cinquantenaire. Il y aura des spectacles qui vont contribuer significativement à la réussite de l'évènement.  Il y aura des stands d'exposition, de la gallérie d'art et plein d'autres choses à savourer au cours de cette deuxième édition. </p> 
+<p>Dans son intervention, le représentant du Ministre de la Culture, de l'Artisanat et du Tourisme, non moins le chargé de mission dudit département, Almamy Ibrahim Koureichy,  cette activité comme toute autre activité relevant de la  culture doit être accompagnée par le département afin de rehausser l'image du Mali à travers le monde. C'est grâce aux efforts consentis dans ce domaine que le Mali est le champion des arts et culture de l'union africaine. C'est pourquoi le Ministère n'est pas resté en marge de cet évènement. </p> 
+
+
+<p>Il faut noter que les préparatifs de cette deuxième édition de l'exposition Art en lumière s'annonce bien sur le berge du fleuve Niger  en compagnie de Africa Scène et le soutien inconditionnel du Ministre de la Culture, de l'Artisanat et du Tourisme. </p>
+",
+  "categorie" : "default",
+  "typeIsArticle" : true,
+  "id" : "malibamako-d3hygwi9",
+  "date" : "2021-02-12"
+}]

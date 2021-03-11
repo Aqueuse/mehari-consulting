@@ -1,0 +1,67 @@
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Mehari consulting</title>
+  <link rel="stylesheet" href= 'style.css'>
+  <link rel="stylesheet" href= 'colors.css'>
+</head>
+
+<body>
+  <script src='client.js'></script>
+  <script src='editor.js'></script>
+
+  <div class="bouton-global" onclick="ShowHide()">
+      <div class="bouton-bar"></div>
+      <div class="bouton-bar"></div>
+      <div class="bouton-bar"></div>
+  </div>
+
+<%- include('partials/lateralPane') %>
+
+<% if (currentArticleURL == "/login") { %>
+  <%- include('partials/login'); %>
+<% } %>
+
+<% if (currentArticleURL == "/create") { %>
+  <%- include('partials/createArticle'); %>
+<% } %>
+
+<% if (/edit.*/.test(currentArticleURL)) { %>
+  <%- include('partials/editArticle'); %>
+<% } %>
+
+<% if (currentArticleURL == "/upload") { %>
+  <%- include('partials/uploadImg'); %>
+<% } %>
+
+<% if (currentArticleURL.substr(0,14) === "/type=rubrique" ) { %>
+     <%- include('partials/rubriqueContainer'); %>
+<% } %>
+
+<% if (currentArticleURL == '/infos') { %>
+  <div class="pageContainer" id="container">
+     <%- include('partials/newsContainer'); %>
+  </div>
+<% } %>
+
+<% if (currentArticleURL.substr(0,10) === "/type=news" ) { %>
+  <div class="pageContainer" id="container">
+    <%- include('partials/newsContainer'); %>
+  </div>
+<% } %>
+
+<% if (currentArticleURL == "/admin") { %>
+  <%- include('partials/admin'); %>
+  <% } %>
+
+  <% if (currentArticleURL == "/edit*") { %>
+      <%- include('partials/editArticle'); %>
+  <% } %>
+
+<% if (currentArticleURL.substr(0,13) === "/type=article" ) { %>
+  <%- include('partials/pageContainer'); %>
+<% } %>
+
+</body>
+</html>
